@@ -7,7 +7,7 @@ CONTENT_INDENT_BROADBAND = "     "
 
 MSG_WELCOME = "\nWelcome to AZ INIT! This command will guide you to set up common config\n"
 
-MSG_SELECT_STEP = "\nSelect an option by typing it's number\n"
+MSG_SELECT_STEP = "\nSelect an option by typing its number\n"
 
 MSG_INPUT_SELECTION = "Your selection: "
 
